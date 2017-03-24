@@ -1,3 +1,5 @@
 # ReminderApp
-App to get reminders
-Sign up and get reminders.
+* Allow users to sign up
+
+* Allow user to CUD reminders., also edit/delete
+
