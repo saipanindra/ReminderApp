@@ -6,6 +6,6 @@
 
 * Create/Update/Delete/Enable/Disable reminders
 
-**What app should doe:**
+**What app can do:**
 
 * Send reminders
