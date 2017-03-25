@@ -5,5 +5,6 @@
 
 * Send Reminders 
 
-* Display a default list of reminders
+* Display default list of reminders
 
+* Display options to select mode of alerts.
